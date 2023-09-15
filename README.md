@@ -62,14 +62,18 @@ Github FLavored Markdown (GFM) supports emoji Shortcodes.
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
 | :cloud: | `:cloud:` | :cloud: |
-| :space_invader: | `:space_invader:` | :space_invader: |
+| :space_invader: | `:space_invader:` | 👾 |
 ```
 
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatiing options. [<sup>[1]</sup>](#reference)
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatiing options. [<sup>[1]</sup>](#external-references)
 
 
 
-## Reference
+
+
+
+
+## External References
 
 - [Exampro](https://www.exampro.co/)
 - [Github basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text)
